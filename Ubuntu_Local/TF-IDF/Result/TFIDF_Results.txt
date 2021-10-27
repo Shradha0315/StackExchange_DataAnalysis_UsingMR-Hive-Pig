@@ -1,0 +1,160 @@
+4883 Owner User ID
+
+            word  tfidf_score
+2    4883,having     0.014241
+359         want     0.014241
+40           box     0.012658
+346     upstream     0.012658
+255       psuedo     0.012658
+55         chunk     0.011076
+126        files     0.011076
+188        looks     0.009494
+351        valid     0.009494
+105         dump     0.009494
+
+
+
+51816 Owner User ID
+
+         word  tfidf_score
+283      grid     0.018343
+493     pyfor     0.017160
+379      lots     0.014201
+587    stream     0.014201
+366      linq     0.013609
+661     wanna     0.011243
+489  property     0.010651
+437    number     0.009467
+109     clamp     0.008876
+663    wanted     0.008876
+
+
+
+49153 Owner User ID
+
+        word  tfidf_score
+408  groupid     0.027170
+544    lower     0.016231
+77       arr     0.011644
+443     ibox     0.009880
+962    users     0.008469
+873  strange     0.008116
+994    watch     0.007763
+490   javafx     0.007763
+167     city     0.007763
+991     wait     0.007410
+
+
+
+179736 Owner User ID
+
+         word  tfidf_score
+404    groups     0.021459
+988   wallthe     0.011705
+544      love     0.011705
+95        api     0.009754
+953     uroot     0.009364
+720     putty     0.009364
+955      used     0.008584
+765   results     0.006633
+722   pymongo     0.006243
+1010    words     0.005853
+
+
+
+63051 Owner User ID
+
+              word  tfidf_score
+185          field     0.020343
+203           good     0.018201
+327          outer     0.012848
+503             vs     0.011777
+88             com     0.010707
+172          exact     0.009636
+428  stackoverflow     0.009636
+279          lstrh     0.009636
+6       63051,have     0.009636
+489            url     0.008565
+
+
+
+95592 Owner User ID
+
+        word  tfidf_score
+123    glyph     0.051429
+164      lot     0.050286
+136   inside     0.029714
+209       pg     0.020571
+182      nav     0.018286
+125   having     0.018286
+235   pysudo     0.017143
+226   proper     0.016000
+263  service     0.016000
+181   naming     0.012571
+
+
+
+87234 Owner User ID
+
+          word  tfidf_score
+85        loop     0.059155
+42        dark     0.050704
+74   initially     0.028169
+12      arrays     0.028169
+161      style     0.022535
+65       going     0.022535
+10        args     0.022535
+26      clocks     0.016901
+126   question     0.016901
+84        long     0.014085
+
+
+
+89904 Owner User ID
+
+                   word  tfidf_score
+194              system     0.032877
+179   setautoresizemode     0.027397
+89            getcolumn     0.027397
+88   getappdatalocation     0.027397
+70                 fern     0.019178
+136               never     0.019178
+200               those     0.016438
+147             perform     0.013699
+73     fileoutputstream     0.013699
+20               append     0.010959
+
+
+
+6068 Owner User ID
+
+               word  tfidf_score
+714  swaggerversion     0.014917
+788             way     0.012155
+288           field     0.010497
+253    entitlements     0.009945
+429            live     0.008840
+183           daily     0.008287
+772            uses     0.008287
+68           aspnet     0.008287
+787         warning     0.008287
+571          pupeno     0.007182
+
+
+
+9951 Owner User ID
+
+        word  tfidf_score
+270     kind     0.014799
+511     used     0.013742
+505      uri     0.012685
+222     good     0.011628
+529   warmly     0.011628
+509      usb     0.009514
+344     once     0.009514
+216      gil     0.008457
+229     hard     0.007400
+527  vimdiff     0.007400
+
+
+
