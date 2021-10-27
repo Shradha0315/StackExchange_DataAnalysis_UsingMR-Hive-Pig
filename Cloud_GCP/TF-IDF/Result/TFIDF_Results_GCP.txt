@@ -1,0 +1,160 @@
+95592 Owner User ID
+
+               word  tfidf_score
+20       gitproject     0.051546
+127           links     0.050401
+25             idea     0.029782
+186            path     0.020619
+78           naming     0.018328
+21          gituser     0.018328
+87   pusheverything     0.017182
+86          problem     0.016037
+236             run     0.016037
+226            name     0.012600
+
+
+
+9951 Owner User ID
+
+           word  tfidf_score
+119     iterate     0.014815
+447         use     0.013757
+538       tools     0.012698
+104   following     0.011640
+222        very     0.011640
+444  understand     0.009524
+278         old     0.009524
+261   generated     0.008466
+542      values     0.007407
+263   handcraft     0.007407
+
+
+
+51816 Owner User ID
+
+             word  tfidf_score
+117         gives     0.018343
+552         pyfor     0.017160
+325       listbox     0.014201
+571          stop     0.014201
+136        length     0.013609
+359        values     0.011243
+551        proper     0.010651
+650  noneposttime     0.009467
+153   represented     0.008876
+423     necessary     0.008876
+
+
+
+89904 Owner User ID
+
+                         word  tfidf_score
+59                   software     0.032967
+116                      fine     0.027473
+58                      seems     0.027473
+181                  function     0.027473
+93                   modified     0.019231
+145                     false     0.019231
+61   streamcorruptedexception     0.016484
+50                       page     0.013736
+114                extracting     0.013736
+38                      clone     0.010989
+
+
+
+63051 Owner User ID
+
+            word  tfidf_score
+300     external     0.020343
+399        found     0.018201
+329        outer     0.012848
+74          view     0.011777
+139         want     0.011777
+464          cnn     0.010707
+473   equivalent     0.009636
+36         linux     0.009636
+125          sql     0.009636
+419  programmers     0.008565
+
+
+
+6068 Owner User ID
+
+                            word  tfidf_score
+677               swaggerversion     0.014909
+444                       useful     0.012148
+495                      feature     0.010491
+261  ensuretoplevelfilescompiled     0.009939
+52                          line     0.008835
+334                         void     0.008283
+215                          use     0.008283
+131                        daily     0.008283
+112                          asp     0.008283
+654                  programmers     0.007178
+
+
+
+49153 Owner User ID
+
+         word  tfidf_score
+920   getyear     0.027208
+69      lower     0.016254
+8    anything     0.011661
+618      http     0.009894
+125       use     0.008481
+826     store     0.008127
+277      void     0.007774
+578   chooses     0.007774
+486      java     0.007774
+276      view     0.007420
+
+
+
+179736 Owner User ID
+
+                 word  tfidf_score
+474              grab     0.021451
+134              wall     0.011700
+347            logcat     0.011700
+148               api     0.009750
+1009     unsupervised     0.009360
+93                put     0.009360
+704              used     0.008580
+988           results     0.006630
+89    printstacktrace     0.006240
+326              func     0.005850
+
+
+
+87234 Owner User ID
+
+          word  tfidf_score
+63    iostream     0.059322
+159     coding     0.050847
+156  algorithm     0.028249
+88     include     0.028249
+163  following     0.022599
+1          amp     0.022599
+148      solve     0.022599
+4        clang     0.016949
+69     primary     0.016949
+101     static     0.014124
+
+
+
+4883 Owner User ID
+
+               word  tfidf_score
+267            very     0.014241
+316  4883,according     0.014241
+166       untracked     0.012658
+61           always     0.012658
+360          psuedo     0.012658
+332            dump     0.011076
+68            chunk     0.011076
+212          master     0.009494
+208           linux     0.009494
+201       following     0.009494
+
+
+
