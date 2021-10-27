@@ -1,0 +1,16 @@
+result Owner User ID
+
+           word  tfidf_score
+610        grab     0.019362
+1175      lower     0.014061
+2787       wall     0.007683
+890        void     0.007453
+590      figure     0.006838
+1740      pyfor     0.006685
+408         use     0.006300
+2262      store     0.006300
+1837  untracked     0.005916
+3071    network     0.004687
+
+
+
