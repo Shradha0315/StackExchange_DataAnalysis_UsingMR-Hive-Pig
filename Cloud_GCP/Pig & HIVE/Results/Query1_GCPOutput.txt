@@ -1,0 +1,10 @@
+25903	Why is processing a sorted array faster than processing an unsorted array?
+23303	How do I undo the most recent local commits in Git?
+18475	How do I delete a Git branch locally and remotely?
+12812	What is the difference between 'git pull' and 'git fetch'?
+11528	"What does the ""yield"" keyword do?"
+10902	What is the correct JSON content type?
+10062	How do I undo 'git add' before commit?
+9899	How can I remove a specific item from an array?
+9764	How do I rename a local Git branch?
+9545	"What is the ""-->"" operator in C/C++?"
